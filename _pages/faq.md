@@ -3,6 +3,7 @@ layout: single
 title: "FAQ"
 permalink: /faq/
 toc: true
+author_profile: true
 ---
 
 # General Q&A

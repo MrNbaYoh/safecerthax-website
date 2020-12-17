@@ -3,6 +3,7 @@ layout: single
 title: "User Guide"
 permalink: /user-guide/
 toc: true
+author_profile: true
 ---
 
 **Warning:** safecerthax is an exploit for **O3DS/2DS only**, it does **not** work on N3DS & N2DS. For more information, please check out the [FAQ](/faq/).

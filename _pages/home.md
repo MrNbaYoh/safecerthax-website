@@ -4,6 +4,7 @@ excerpt: "A remote ARM9 & ARM11 kernel exploit for the Original Nintendo 3DS (O3
 layout: splash
 permalink: /
 header:
+  og_image: "/assets/images/cover.png"
   overlay_image: /assets/images/splash.jpg
   overlay_filter: 0.5
   actions:

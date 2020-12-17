@@ -9,6 +9,12 @@ logo: "assets/images/icon_88x88.png"
 
 include: ["_pages"]
 
+collections:
+  credits:
+    output: true
+    permalink: /:collection/:path/
+
+
 author:
   name: "nba::yoh (MrNbaYoh)"
   avatar: "assets/images/avatar.jpg"
@@ -32,3 +38,4 @@ footer:
 plugins:
 - jekyll-include-cache
 - jekyll-feed
+- jekyll-redirect-from

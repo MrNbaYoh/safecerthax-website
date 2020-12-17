@@ -6,6 +6,8 @@ name: "MrNbaYoh"
 url: "https://safecerthax.rocks"
 repository: "MrNbaYoh/safecerthax"
 
+include: ["_pages"]
+
 footer:
   links:
     - label: "Twitter"

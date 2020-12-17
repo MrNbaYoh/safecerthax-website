@@ -1,5 +1,5 @@
 ---
-title: "![](/assets/images/vector/icon.svg) safecerthax"
+title: "![](/assets/images/vector/icon.svg){: style=\"height:2em\"} safecerthax"
 excerpt: "A remote ARM9 & ARM11 kernel exploit for the Original Nintendo 3DS (O3DS)."
 layout: splash
 permalink: /

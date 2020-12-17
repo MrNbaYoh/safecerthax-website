@@ -1,4 +1,5 @@
 ---
+title: "![](/assets/images/vector/icon.svg)safecerthax"
 layout: splash
 permalink: /
 header:

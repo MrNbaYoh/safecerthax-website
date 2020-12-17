@@ -1,0 +1,7 @@
+main:
+  - title: User Guide
+    url: /user-guide/
+  - title: FAQ
+    url: /faq/
+  - title: Write-up
+    url: /write-up/

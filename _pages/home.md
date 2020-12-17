@@ -2,5 +2,5 @@
 layout: splash
 permalink: /
 header:
-  image: /assets/images/cover.png
+  image: /assets/images/vector/default-monochrome.svg
 ---

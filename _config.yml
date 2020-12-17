@@ -1,6 +1,10 @@
 remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 
 title: safecerthax
+minimal_mistakes_skin: "dark"
+name: "MrNbaYoh"
+url: "https://safecerthax.rocks"
+repository: "MrNbaYoh/safecerthax"
 
 plugins:
 - jekyll-include-cache

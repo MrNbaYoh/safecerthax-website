@@ -20,7 +20,7 @@ Yes it is, at least as safe as any other full chain exploit.
 Though, considering [SSLoth](https://github.com/MrNbaYoh/3ds-ssloth) is a thing, you should avoid using custom DNS and proxy servers. safecerthax servers are safe, but on this point, you have no choice but to trust me.
 
 #### What is SSLoth exactly?
-For more information on SSLoth, please visit the [SSLoth repository]((https://github.com/MrNbaYoh/3ds-ssloth).
+For more information on SSLoth, please visit the [SSLoth repository](https://github.com/MrNbaYoh/3ds-ssloth).
 
 #### Will safecerthax ever work on N3DS & N2DS?
 Unfortunately, it won't ever work on N3DS & N2DS devices. safecerthax uses some very old vulnerabilities that firmware version 5.0.0 fixed on NATIVE_FIRM (the regular firmware). The O3DS/2DS recovery mode firmware (SAFE_FIRM) is based on a very old firmware revision that is still vulnerable to those flaws. The N3DS/N2DS SAFE_FIRM is much more recent and based on firmware version 8.0.0 that is not vulnerable.

@@ -12,6 +12,7 @@ include: ["_pages"]
 author:
   name: "nba::yoh (MrNbaYoh)"
   avatar: "assets/images/avatar.jpg"
+  links:
   - label: "Twitter"
     icon: "fab fa-fw fa-twitter-square"
     url: "https://twitter.com/MrNbaYoh"

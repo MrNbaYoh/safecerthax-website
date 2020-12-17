@@ -6,10 +6,17 @@ permalink: /
 header:
   overlay_image: /assets/images/splash.jpg
   overlay_filter: 0.5
+  actions:
+    - label: "Instructions"
+      url: "/user-guide/"
+    - label: "<i class=\"fab fa-github\"></i> Github"
+      url: "https://github.com/MrNbaYoh/safecerthax"
+    - label: "<i class=\"fab fa-twitter\"></i> Twitter"
+      url: "https://twitter.com/MrNbaYoh"
 ---
 
 # What is safecerthax?
-safecerthax is a remote ARM9 & ARM 11 kernel exploit for the Original Nintendo 3DS (O3DS) recovery mode firmware (SAFE_FIRM).
+safecerthax is a remote ARM9 & ARM11 kernel exploit for the Original Nintendo 3DS (O3DS) recovery mode firmware (SAFE_FIRM).
 It makes it possible to install [boot9strap](https://github.com/SciresM/boot9strap) through the [SafeB9SInstaller](https://github.com/d0k3/SafeB9SInstaller) on any **O3DS/2DS** system.
 
 # Affected versions

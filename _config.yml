@@ -6,6 +6,7 @@ name: "MrNbaYoh"
 url: "https://safecerthax.rocks"
 repository: "MrNbaYoh/safecerthax"
 logo: "assets/images/icon_88x88.png"
+og_image: "assets/images/cover.png"
 
 include: ["_pages"]
 

@@ -9,6 +9,16 @@ logo: "assets/images/icon_88x88.png"
 
 include: ["_pages"]
 
+author:
+  name: "nba::yoh (MrNbaYoh)"
+  avatar: "assets/images/avatar.jpg"
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: "https://twitter.com/MrNbaYoh"
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/MrNbaYoh"
+
 footer:
   links:
     - label: "Twitter"

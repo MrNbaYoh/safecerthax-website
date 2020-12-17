@@ -2,3 +2,5 @@ remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 
 title: safecerthax
 
+plugins:
+- jekyll-include-cache

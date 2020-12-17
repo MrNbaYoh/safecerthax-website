@@ -1,5 +1,4 @@
-remote_theme: dracula/gh-pages
+remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 
 title: safecerthax
-colorspace: orange
-show_header: true
+

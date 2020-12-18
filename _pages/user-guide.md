@@ -16,11 +16,13 @@ This guide provides instructions on how to use safecerthax to install [boot9stra
 1. Download the latest [SafeB9SInstaller](https://github.com/d0k3/SafeB9SInstaller/releases) archive.
 2. Extract its contents and copy the `SafeB9SInstaller.bin` file to the root of your 3DS SD card.
 
-From there, there are two different ways of using safecerthax:
-- You can [use the public safecerthax DNS & NUS servers](#section-ii-using-the-public-dns--nus-servers).
-- You can [setup your own safecerthax-proxy server](#section-iii-setting-up-your-own-safecerthax-proxy) (more technical).
+## Section II: Setting up your 3DS
 
-## Section II: Using the public DNS & NUS servers
+From there, there are two different ways of using safecerthax:
+- You can [use the public safecerthax DNS & NUS servers](#option-i-using-the-public-dns--nus-servers).
+- You can [setup your own safecerthax-proxy server](#option-ii-setting-up-your-own-safecerthax-proxy) (more technical).
+
+### Option I: Using the public DNS & NUS servers
 
 **WARNING:** safecerthax uses an exploit in the 3DS SSL system module to bypass SSL/TLS certificate verifications. It means that you're **not safe** when using custom DNS or proxy servers. Thus, I highly recommend not using any proxy or DNS server other than the ones provided here. Moreover, you should stop using the safecerthax servers once you have finished using the exploit. I am not responsible for any issue caused by the use of potential untrusted third-party servers.
 {: .notice--danger}
@@ -34,7 +36,7 @@ From there, there are two different ways of using safecerthax:
 5. Save your changes and run the connection test.
 6. If the test succeeded, you may now shutdown your device and go to [Section IV](#section-iv-running-the-exploit).
 
-## Section III: Setting up your own safecerthax-proxy
+### Option II: Setting up your own safecerthax-proxy
 *TODO*
 
 

@@ -29,8 +29,8 @@ From there, there are two different ways of using safecerthax:
 
 1. Power on your 3DS and launch the System Settings application.
 2. Navigate to `Internet Settings` -> `Connection Settings`.
-3. Tap on your network connection slot and navigate to `Edit` -> `DNS` -> `Advanced Settings`.
-4. Tap on `Yes` and edit both fields as follows:
+3. Tap on your network connection slot and navigate to `Edit` -> `DNS`.
+4. Tap on `No` and open the `Advanced Settings`. Then edit both fields as follows:
   - `Primary DNS`: `54.38.133.70`
   - `Secondary DNS`: `54.38.133.70`
 5. Save your changes and run the connection test.

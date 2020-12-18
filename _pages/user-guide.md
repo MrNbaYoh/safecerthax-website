@@ -34,15 +34,15 @@ From there, there are two different ways of using safecerthax:
   - `Primary DNS`: `54.38.133.70`
   - `Secondary DNS`: `54.38.133.70`
 5. Save your changes and run the connection test.
-6. If the test succeeded, you may now shutdown your device and go to [Section IV](#section-iv-running-the-exploit).
+6. If the test succeeded, you may now shutdown your device and go to [Section III](#section-iii-running-the-exploit).
 
 ### Option II: Setting up your own safecerthax-proxy
 *TODO*
 
 
-## Section IV: Running the exploit
+## Section III: Running the exploit
 
-The exploit does not have a 100% success rate. It might freeze or get stuck on a black screen. If this occurs, just retry from step 1 of Section IV. However, if your problem persists, please check out the [Troubleshooting section of the FAQ](/faq/#troubleshooting).
+The exploit does not have a 100% success rate. It might freeze or get stuck on a black screen. If this occurs, just retry from step 1 of this section. However, if your problem persists, please check out the [Troubleshooting section of the FAQ](/faq/#troubleshooting).
 {: .notice--info}
 
 1. Power on your device in Recovery Mode by holding `L+R+Up+A` on startup.

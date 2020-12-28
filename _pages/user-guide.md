@@ -46,7 +46,7 @@ The exploit does not have a 100% success rate. It might freeze or get stuck on a
 {: .notice--info}
 
 1. Power on your device in Recovery Mode by holding `L+R+Up+A` on startup.
-2. Tap on `OK` and `I Aggree` when it asks you to connect to the Internet to update your device.
+2. Tap on `OK` and `I Agree` when it asks you to connect to the Internet to update your device.
 3. Tap on `OK` to begin the fake update.
 4. The update should fail and an error message should pop up.
 5. Close the error message.
